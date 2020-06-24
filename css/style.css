@@ -1,0 +1,20 @@
+body{
+  background-color: lavender;
+}
+
+h1{
+  color: BLACK;
+}
+h2{
+  color: lightseagreen	;
+}
+ hr{
+
+   border-style: dotted none none;
+border-color: grey;
+border-width: 5px;
+   width: 05%;
+ }
+ img{
+   width: 150px;
+ }
